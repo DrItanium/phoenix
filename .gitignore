@@ -1,3 +1,5 @@
 *.swp
 *.swo
 *.o
+o.phoenix
+o.risc
